@@ -33,3 +33,4 @@ Strong Password ✅ → Meets all conditions.
 Moderate Password ⚠️ → Meets most conditions.
 
 Weak Password ❌ → Fails most conditions (suggestions will be displayed).
+

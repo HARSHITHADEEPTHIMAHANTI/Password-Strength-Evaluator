@@ -12,7 +12,7 @@ Special symbols (!@#$%^&* etc.)
 Displays suggestions to improve weak passwords:
 User-friendly Tkinter GUI.
 
-Example Output
+Example Output:
 Strong Password ✅ → Meets all conditions.
 Moderate Password ⚠️ → Meets most conditions.
 Weak Password ❌ → Fails most conditions (suggestions will be displayed).

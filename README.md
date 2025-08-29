@@ -1,6 +1,7 @@
 Password Strength Evaluator:
 A simple Python-based GUI application built with Tkinter to evaluate password strength.
 It checks whether a password is Strong, Moderate, or Weak, and also provides improvement suggestions for weak passwords.
+Tech used: Python (core), Tkinter (GUI), Regular Expressions – re (pattern matching), and Cybersecurity Rules (password validation).
 
 Checks for:
 Minimum length (8 characters)
